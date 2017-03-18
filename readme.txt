@@ -1,1 +1,1 @@
-git id avesion cintrol systemgit id free software
+git id a distributed version control systemgit id free software
