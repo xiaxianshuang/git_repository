@@ -1,1 +1,1 @@
-git id a distributed version control systemgit id free software under GPL
+git id a distributed version control systemgit id free software under GPLgit has a mutable index called stage
